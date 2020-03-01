@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `VIAJAMOS`,
-    description: `Kick off your next, great Kuailian project with this default starter. This brief starter ships with the main configuration your wallet might need.`,
+    description: `Actividad 01 Lenguage de Marcas`,
     author: `@gatsbyjs`,
   },
   plugins: [
