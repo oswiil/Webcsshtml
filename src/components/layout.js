@@ -7,13 +7,13 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import Portada from "./portada"
+import Portada from "./Portada"
 import Header from "./header"
 
 import "./layout.css"
 import "./styles.css"
 
-import FootDescript from "./footer"
+import FootDescript from "./Footer"
 
 function Layout({ children }) {
   return (
